@@ -1,3 +1,3 @@
-import * as obj from "./map.js"
-console.log(obj.arr)
-console.log(obj.rowNum, obj.colNum)
+import "./ui.js"
+import * as obj from "./test.js"
+console.log(obj)
