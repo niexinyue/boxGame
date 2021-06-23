@@ -36,6 +36,12 @@ export const correct = [
     { row: 9, col: 4 },
     { row: 10, col: 4 }
 ];
-
 export const rowNum = arr.length;
 export const colNum = arr[0].length;
+// for (let row = 0; row < rowNum; row++) {
+//     for (let col = 0; col < colNum; col++) {
+//         if (arr[row][col] == 3) {
+//             correct.push({ row: row, col: col })
+//         }
+//     }
+// }
